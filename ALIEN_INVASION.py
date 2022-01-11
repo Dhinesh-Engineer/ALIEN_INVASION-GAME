@@ -67,5 +67,4 @@ def run_game():
 
 run_game()
 
-"""page no 337
-"""
+
