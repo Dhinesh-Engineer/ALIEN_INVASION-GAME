@@ -20,3 +20,9 @@
 
 If the command runs successfully without throwing any errors, it means we have successfully installed Pygame and found the correct version of IDLE to use for pygame programming.
 
+## Some Snaps of this game:
+
+![Screenshot (593)](https://user-images.githubusercontent.com/89518390/192842453-a556b85b-847f-4984-83af-ffe312ba4526.png)
+
+![Screenshot (594)](https://user-images.githubusercontent.com/89518390/192842488-0f77e734-3367-4c7f-85c6-876c14ab623d.png)
+
